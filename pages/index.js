@@ -7,8 +7,8 @@ export default function Home() {
       <div className="flex-grow">
         <h1 className="text-7xl font-light mb-8">Welcome.</h1>
         <div className="border-l-2 border-yellow-400 pl-4 max-w-xl">
-        <p className="text-xl mb-4">My name is Joye Huang, I'm a first-year university student based in Melbourne.</p>  
-        <p className="text-xl mb-4">I'm majoring in Computing and Software Systems and have a passion for programming and building innovative applications.</p>
+        <p className="text-xl mb-4">My name is Joye Huang, I&apos;m a first-year university student based in Melbourne.</p>  
+        <p className="text-xl mb-4">I&apos;m majoring in Computing and Software Systems and have a passion for programming and building innovative applications.</p>
         <p className="text-xl">In my spare time, I enjoy playing the cello and exploring the world of classical music.</p>
         </div>
       </div>
